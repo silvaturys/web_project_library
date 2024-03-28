@@ -251,7 +251,6 @@
   align-items: center;
   flex-direction: column;
   gap: 10px;
-  position: absolute;
 }
 
 .person_name_feynman {
@@ -263,7 +262,7 @@
 .person_name_burbidge {
   position: absolute;
   top: 96px;
-  right: 126px;
+  right: 125px;
 }
 
 .person_name_cannon {
